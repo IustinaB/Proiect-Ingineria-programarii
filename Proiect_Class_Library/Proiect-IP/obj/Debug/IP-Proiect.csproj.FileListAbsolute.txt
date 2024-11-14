@@ -1,0 +1,353 @@
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\x86\sqlite3.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\x64\sqlite3.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\IP-Proiect.exe.config
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\IP-Proiect.exe
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\IP-Proiect.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Persistence.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Weather.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Data.SQLite.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Text.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Newtonsoft.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Memory.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.ValueTuple.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Text.Encodings.Web.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Numerics.Vectors.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Buffers.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Persistence.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Persistence.dll.config
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Persistence.exe.config
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Weather.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Data.SQLite.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Text.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Newtonsoft.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Memory.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.ValueTuple.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Text.Encodings.Web.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Numerics.Vectors.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Buffers.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP-Proiect.csproj.AssemblyReference.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP_Proiect.Form1.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP_Proiect.MyUserControlDays.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP_Proiect.Properties.Resources.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP_Proiect.UserControlDays.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP_Proiect.UserControlEmpty.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP-Proiect.csproj.GenerateResource.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP-Proiect.csproj.CoreCompileInputs.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP-Proiect.csproj.CopyComplete
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP-Proiect.exe
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Proiect-IP\obj\Debug\IP-Proiect.pdb
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x86\sqlite3.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x64\sqlite3.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe.config
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.pdb
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.pdb
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll.config
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.exe.config
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.pdb
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.AssemblyReference.cache
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Form1.resources
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.MyUserControlDays.resources
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Properties.Resources.resources
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlDays.resources
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlEmpty.resources
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.GenerateResource.cache
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CopyComplete
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.exe
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\x86\sqlite3.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\x64\sqlite3.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\IP-Proiect.exe.config
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\IP-Proiect.exe
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\IP-Proiect.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Persistence.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Weather.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Data.SQLite.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Text.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Newtonsoft.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Memory.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.ValueTuple.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Text.Encodings.Web.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Numerics.Vectors.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Buffers.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Persistence.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Persistence.dll.config
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Persistence.exe.config
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Weather.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Data.SQLite.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Text.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Newtonsoft.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Memory.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.ValueTuple.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Text.Encodings.Web.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Numerics.Vectors.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Buffers.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP-Proiect.csproj.AssemblyReference.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP_Proiect.Form1.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP_Proiect.MyUserControlDays.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP_Proiect.Properties.Resources.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP_Proiect.UserControlDays.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP_Proiect.UserControlEmpty.resources
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP-Proiect.csproj.GenerateResource.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP-Proiect.csproj.CoreCompileInputs.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP-Proiect.csproj.CopyComplete
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP-Proiect.exe
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Proiect-IP\obj\Debug\IP-Proiect.pdb
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x86\sqlite3.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x64\sqlite3.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe.config
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.pdb
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.pdb
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll.config
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.exe.config
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.pdb
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.AssemblyReference.cache
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Form1.resources
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.MyUserControlDays.resources
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Properties.Resources.resources
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlDays.resources
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlEmpty.resources
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.GenerateResource.cache
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CoreCompileInputs.cache
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CopyComplete
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.exe
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.pdb
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x86\sqlite3.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x64\sqlite3.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe.config
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.pdb
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.pdb
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll.config
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.exe.config
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.pdb
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.AssemblyReference.cache
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.SuggestedBindingRedirects.cache
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Form1.resources
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.MyUserControlDays.resources
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Properties.Resources.resources
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlDays.resources
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlEmpty.resources
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.GenerateResource.cache
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CoreCompileInputs.cache
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CopyComplete
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.exe
+C:\Programming\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.pdb
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x86\sqlite3.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x64\sqlite3.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe.config
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.pdb
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.pdb
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll.config
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.exe.config
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.pdb
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.AssemblyReference.cache
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Form1.resources
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.MyUserControlDays.resources
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Properties.Resources.resources
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlDays.resources
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlEmpty.resources
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.GenerateResource.cache
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CopyComplete
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.exe
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.pdb
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x86\sqlite3.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\x64\sqlite3.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe.config
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.exe
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\IP-Proiect.pdb
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.pdb
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.dll.config
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Persistence.exe.config
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Weather.pdb
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Data.SQLite.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Json.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Memory.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.ValueTuple.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Buffers.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.AssemblyReference.cache
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Form1.resources
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.MyUserControlDays.resources
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.Properties.Resources.resources
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlDays.resources
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP_Proiect.UserControlEmpty.resources
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.GenerateResource.cache
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CoreCompileInputs.cache
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.csproj.CopyComplete
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.exe
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Proiect-IP\obj\Debug\IP-Proiect.pdb
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\x86\sqlite3.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\x64\sqlite3.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\IP-Proiect.exe.config
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\IP-Proiect.exe
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\IP-Proiect.pdb
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Persistence.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Weather.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Data.SQLite.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Text.Json.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Memory.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.ValueTuple.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Buffers.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Persistence.pdb
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Persistence.dll.config
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Persistence.exe.config
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Weather.pdb
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Data.SQLite.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Text.Json.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Memory.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.ValueTuple.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Buffers.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP-Proiect.csproj.AssemblyReference.cache
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP_Proiect.Form1.resources
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP_Proiect.MyUserControlDays.resources
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP_Proiect.Properties.Resources.resources
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP_Proiect.UserControlDays.resources
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP_Proiect.UserControlEmpty.resources
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP-Proiect.csproj.GenerateResource.cache
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP-Proiect.csproj.CoreCompileInputs.cache
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP-Proiect.csproj.CopyComplete
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP-Proiect.exe
+C:\Users\madaB\Desktop\IP Proiect\Grupa2_Proiect_Utilizand_Class_Library\Grupa2_Proiect_Utilizand_Class_Library\Proiect-IP\obj\Debug\IP-Proiect.pdb

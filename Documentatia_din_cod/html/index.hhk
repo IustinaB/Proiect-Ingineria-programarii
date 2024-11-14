@@ -1,0 +1,333 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__proiect__i_p_packages__newtonsoft__json_13_0_3__r_e_a_d_m_e.html"><param name="Name" value="&lt;img src=&quot;https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/Doc/icons/logo.jpg&quot; alt=&quot;Logo&quot;/&gt; Json.NET"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_a_p_i.html"><param name="Name" value="API"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_coordinates.html"><param name="Name" value="API::Coordinates"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_daily_data.html"><param name="Name" value="API::DailyData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_daily_units.html"><param name="Name" value="API::DailyUnits"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html"><param name="Name" value="API::GeocodingLoc"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html"><param name="Name" value="API::GeocodingLoc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#a34c0b34f5f619b54f858ee029d114501"><param name="Name" value="GeocodingLoc()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html"><param name="Name" value="API::GeocodingLoc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#ae75a3223f9cc451f8ed0d3d2e24c5db0"><param name="Name" value="GetLocationCoord(string strLocation)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html"><param name="Name" value="API::GeocodingLoc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#a837709235376cdb8a9615b55c3e7f878"><param name="Name" value="GetStringGeo(string location)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html"><param name="Name" value="API::Weather"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html"><param name="Name" value="API::Weather"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html#a55fcc4268fb62cc12f581d3a84e57ab3"><param name="Name" value="GetStringByCoord(double lat, double lon, string date)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html"><param name="Name" value="API::Weather"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html#aebaeb3fca32982e85d5ddd3ff48a0241"><param name="Name" value="GetWeatherData(double lat, double lon, string date)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html"><param name="Name" value="API::Weather"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html#a0bbd93cff1346c1b543543df25a391a8"><param name="Name" value="Weather()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather_data.html"><param name="Name" value="API::WeatherData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather_main.html"><param name="Name" value="API::WeatherMain"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather_main.html"><param name="Name" value="API::WeatherMain"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather_main.html#ac75897e3b88c303581504caefff64da4"><param name="Name" value="WeatherForCity(string city, string date)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather_main.html"><param name="Name" value="API::WeatherMain"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather_main.html#a32ddd076da495cb33ff885c0efe25bb0"><param name="Name" value="WeatherMain()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__persistence_packages__system__text__json_7_0_2__r_e_a_d_m_e.html"><param name="Name" value="About"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#ab8acae3f363032115540cd8e83080f73"><param name="Name" value="AddNotes(in Record record)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#ab8acae3f363032115540cd8e83080f73"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a679ea0d1d04e806ecfa1baed5f878d88"><param name="Name" value="AddNotes(in Record record)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a679ea0d1d04e806ecfa1baed5f878d88"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#ae27fdf2d308ed76571c7021c03568e25"><param name="Name" value="AddNotes(string title, string content, string data, string location, string weather)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a1a25a9c47bf6012c08b85bd19b3fe385"><param name="Name" value="CreateTable()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a1a25a9c47bf6012c08b85bd19b3fe385"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a628dc4e045903c45217f2ceb1fc64e59"><param name="Name" value="CreateTable()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a628dc4e045903c45217f2ceb1fc64e59"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a9f6252dde0e4163e262c904e1c51ba88"><param name="Name" value="CreateTable()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a9f6252dde0e4163e262c904e1c51ba88"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#ab9172e5c10abd674b0ef9f78c5dcfcca"><param name="Name" value="DeleteAllNotes()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#ab9172e5c10abd674b0ef9f78c5dcfcca"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa7cbccabf3fa73b1976c04905e39d251"><param name="Name" value="DeleteAllNotes()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa7cbccabf3fa73b1976c04905e39d251"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#ae6598bf44bed2e1009adce7e3d5c9479"><param name="Name" value="DeleteAllNotes()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#ae6598bf44bed2e1009adce7e3d5c9479"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a678ca0c5c99db6e7038dc46dd0612f2e"><param name="Name" value="DeleteNote(in int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a678ca0c5c99db6e7038dc46dd0612f2e"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a493ae2d2425571756d46b986b52e5429"><param name="Name" value="DeleteNote(in int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a493ae2d2425571756d46b986b52e5429"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#affe8631e4142a4f4baa859fa1433f136"><param name="Name" value="DeleteNote(in int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#affe8631e4142a4f4baa859fa1433f136"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_form1.html#ad6d0ff23283bd645224232cdb7935d5c"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_form1.html#ad6d0ff23283bd645224232cdb7935d5c"><param name="Name" value="IP_Proiect::Form1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html#ab3586bc8040bd8b9c845ed523d24117a"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html#ab3586bc8040bd8b9c845ed523d24117a"><param name="Name" value="IP_Proiect::UserControlDays"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html#a43dbc779e8d9eca8ccc5605d788fa8db"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html#a43dbc779e8d9eca8ccc5605d788fa8db"><param name="Name" value="IP_Proiect::UserControlEmpty"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_form1.html#a92deec0310281c3933c2e9a88e743550"><param name="Name" value="Form1()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#a34c0b34f5f619b54f858ee029d114501"><param name="Name" value="GeocodingLoc()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aebddbf877a23ee86964a535ea8eb8d32"><param name="Name" value="GetAllDates()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aebddbf877a23ee86964a535ea8eb8d32"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a163d36c17167e2061221ffdcf5f505fe"><param name="Name" value="GetAllDates()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a163d36c17167e2061221ffdcf5f505fe"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#acfd9d9debdea01d8e40cdd83df56fc07"><param name="Name" value="GetAllNotes()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#acfd9d9debdea01d8e40cdd83df56fc07"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a89c6d78e0e6c5c994b78c0ba2a17e016"><param name="Name" value="GetAllNotes()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a89c6d78e0e6c5c994b78c0ba2a17e016"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#aba078310ccc713e66c5e7b571d2a9efc"><param name="Name" value="GetAllNotes()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#aba078310ccc713e66c5e7b571d2a9efc"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#ae75a3223f9cc451f8ed0d3d2e24c5db0"><param name="Name" value="GetLocationCoord(string strLocation)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#afd6f58df5eb6578eb5bbb479c8f24e13"><param name="Name" value="GetNoteByID(in int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#afd6f58df5eb6578eb5bbb479c8f24e13"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a424f6af99d0a497db624119900648921"><param name="Name" value="GetNoteByID(in int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a424f6af99d0a497db624119900648921"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a22f643010461d3ec3dea9a19af6b2d79"><param name="Name" value="GetNoteByID(in int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a22f643010461d3ec3dea9a19af6b2d79"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a2b7e46217e06377eb50b706e494e5ef5"><param name="Name" value="GetNotesByDate(in string date)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a2b7e46217e06377eb50b706e494e5ef5"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a50b03712461f247eeb45387cc3eb5f97"><param name="Name" value="GetNotesByDate(in string date)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a50b03712461f247eeb45387cc3eb5f97"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a1b1d7bad1e5e785034594d815c9861dc"><param name="Name" value="GetNotesByDate(in string date)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a1b1d7bad1e5e785034594d815c9861dc"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html#a55fcc4268fb62cc12f581d3a84e57ab3"><param name="Name" value="GetStringByCoord(double lat, double lon, string date)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#a837709235376cdb8a9615b55c3e7f878"><param name="Name" value="GetStringGeo(string location)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a71f8f82d6eff0429cb9688841fe68c41"><param name="Name" value="GetWeather(in string location, in string year, in string month, in string day)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html#aebaeb3fca32982e85d5ddd3ff48a0241"><param name="Name" value="GetWeatherData(double lat, double lon, string date)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_i_p___proiect.html"><param name="Name" value="IP_Proiect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#ae27fdf2d308ed76571c7021c03568e25"><param name="Name" value="AddNotes(string title, string content, string data, string location, string weather)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a1a25a9c47bf6012c08b85bd19b3fe385"><param name="Name" value="CreateTable()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#ab9172e5c10abd674b0ef9f78c5dcfcca"><param name="Name" value="DeleteAllNotes()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a678ca0c5c99db6e7038dc46dd0612f2e"><param name="Name" value="DeleteNote(in int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#acfd9d9debdea01d8e40cdd83df56fc07"><param name="Name" value="GetAllNotes()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#afd6f58df5eb6578eb5bbb479c8f24e13"><param name="Name" value="GetNoteByID(in int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a2b7e46217e06377eb50b706e494e5ef5"><param name="Name" value="GetNotesByDate(in string date)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a71f8f82d6eff0429cb9688841fe68c41"><param name="Name" value="GetWeather(in string location, in string year, in string month, in string day)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="Name" value="IP_Proiect::FacadeMethods"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#abcba58116984f4177e38bbc4474cc01a"><param name="Name" value="UpdateNote(int id, string title, string content, string data, string location, string weather)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_form1.html"><param name="Name" value="IP_Proiect::Form1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_form1.html"><param name="Name" value="IP_Proiect::Form1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_form1.html#ad6d0ff23283bd645224232cdb7935d5c"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_form1.html"><param name="Name" value="IP_Proiect::Form1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_form1.html#a92deec0310281c3933c2e9a88e743550"><param name="Name" value="Form1()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_my_user_control_days.html"><param name="Name" value="IP_Proiect::MyUserControlDays"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_i_p___proiect_1_1_properties.html"><param name="Name" value="IP_Proiect::Properties"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html"><param name="Name" value="IP_Proiect::UserControlDays"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html"><param name="Name" value="IP_Proiect::UserControlDays"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html#ab3586bc8040bd8b9c845ed523d24117a"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html"><param name="Name" value="IP_Proiect::UserControlEmpty"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html"><param name="Name" value="IP_Proiect::UserControlEmpty"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html#a43dbc779e8d9eca8ccc5605d788fa8db"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__proiect__i_p_packages__newtonsoft__json_13_0_3__l_i_c_e_n_s_e.html"><param name="Name" value="LICENSE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#af867f96bcfccacc64c49543ea779128f"><param name="Name" value="NotesRepository()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_persistence.html"><param name="Name" value="Persistence"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#ab8acae3f363032115540cd8e83080f73"><param name="Name" value="AddNotes(in Record record)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a628dc4e045903c45217f2ceb1fc64e59"><param name="Name" value="CreateTable()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa7cbccabf3fa73b1976c04905e39d251"><param name="Name" value="DeleteAllNotes()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a493ae2d2425571756d46b986b52e5429"><param name="Name" value="DeleteNote(in int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aebddbf877a23ee86964a535ea8eb8d32"><param name="Name" value="GetAllDates()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a89c6d78e0e6c5c994b78c0ba2a17e016"><param name="Name" value="GetAllNotes()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a424f6af99d0a497db624119900648921"><param name="Name" value="GetNoteByID(in int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a50b03712461f247eeb45387cc3eb5f97"><param name="Name" value="GetNotesByDate(in string date)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa39c730d992300838785876e788f38b3"><param name="Name" value="UpdateNote(in Record record)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a679ea0d1d04e806ecfa1baed5f878d88"><param name="Name" value="AddNotes(in Record record)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a9f6252dde0e4163e262c904e1c51ba88"><param name="Name" value="CreateTable()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#ae6598bf44bed2e1009adce7e3d5c9479"><param name="Name" value="DeleteAllNotes()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#affe8631e4142a4f4baa859fa1433f136"><param name="Name" value="DeleteNote(in int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a163d36c17167e2061221ffdcf5f505fe"><param name="Name" value="GetAllDates()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#aba078310ccc713e66c5e7b571d2a9efc"><param name="Name" value="GetAllNotes()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a22f643010461d3ec3dea9a19af6b2d79"><param name="Name" value="GetNoteByID(in int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a1b1d7bad1e5e785034594d815c9861dc"><param name="Name" value="GetNotesByDate(in string date)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#af867f96bcfccacc64c49543ea779128f"><param name="Name" value="NotesRepository()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a00839bedd5eef7559e18d2b4e443c1f6"><param name="Name" value="UpdateNote(in Record record)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html"><param name="Name" value="Persistence::Record"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html"><param name="Name" value="Persistence::Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html#a698300ab87916a0eedb8d00886c1e8b8"><param name="Name" value="Record()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html"><param name="Name" value="Persistence::Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html#a34a567288d75f01e4b6c6e11f94c6871"><param name="Name" value="Record(int id, string title, string content, string data, string location, string weather)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html"><param name="Name" value="Persistence::Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html#abf0bb5dab050b038567e31819fd450e0"><param name="Name" value="Record(string title, string content, string data, string location, string weather)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html"><param name="Name" value="Persistence::Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html#afe12e3b98b28ac694b7b95672d54d64a"><param name="Name" value="ToString()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_unique_d_b_record_exception.html"><param name="Name" value="Persistence::UniqueDBRecordException"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html#a698300ab87916a0eedb8d00886c1e8b8"><param name="Name" value="Record()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html#a34a567288d75f01e4b6c6e11f94c6871"><param name="Name" value="Record(int id, string title, string content, string data, string location, string weather)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html#abf0bb5dab050b038567e31819fd450e0"><param name="Name" value="Record(string title, string content, string data, string location, string weather)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_record.html#afe12e3b98b28ac694b7b95672d54d64a"><param name="Name" value="ToString()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa39c730d992300838785876e788f38b3"><param name="Name" value="UpdateNote(in Record record)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa39c730d992300838785876e788f38b3"><param name="Name" value="Persistence::INotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a00839bedd5eef7559e18d2b4e443c1f6"><param name="Name" value="UpdateNote(in Record record)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_persistence_1_1_notes_repository.html#a00839bedd5eef7559e18d2b4e443c1f6"><param name="Name" value="Persistence::NotesRepository"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#abcba58116984f4177e38bbc4474cc01a"><param name="Name" value="UpdateNote(int id, string title, string content, string data, string location, string weather)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather.html#a0bbd93cff1346c1b543543df25a391a8"><param name="Name" value="Weather()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather_main.html#ac75897e3b88c303581504caefff64da4"><param name="Name" value="WeatherForCity(string city, string date)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_a_p_i_1_1_weather_main.html#a32ddd076da495cb33ff885c0efe25bb0"><param name="Name" value="WeatherMain()"></OBJECT>
+</UL>
+</BODY>
+</HTML>

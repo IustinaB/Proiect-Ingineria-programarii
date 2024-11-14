@@ -1,0 +1,228 @@
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\x86\sqlite3.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\x64\sqlite3.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\IP-Proiect.exe
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Persistence.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Buffers.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Memory.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Numerics.Vectors.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Weather.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Text.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.ValueTuple.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Text.Encodings.Web.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Persistence.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Persistence.dll.config
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Persistence.exe.config
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\IP-Proiect.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\IP-Proiect.exe.config
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Weather.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Buffers.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Memory.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Numerics.Vectors.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Text.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.ValueTuple.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Text.Encodings.Web.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_Final\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\UnitTest.dll.config
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\EntityFramework.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\SQLitePCLRaw.core.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.EF6.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.Linq.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\EntityFramework.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\UnitTest\UnitTest\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\x86\sqlite3.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\x64\sqlite3.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\UnitTest.dll.config
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\EntityFramework.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\IP-Proiect.exe
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Persistence.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\SQLitePCLRaw.core.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Buffers.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.EF6.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.Linq.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Memory.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Numerics.Vectors.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Weather.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Text.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.ValueTuple.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Text.Encodings.Web.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Persistence.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Persistence.dll.config
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Persistence.exe.config
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\IP-Proiect.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\IP-Proiect.exe.config
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Weather.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\EntityFramework.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Buffers.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Memory.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Numerics.Vectors.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Text.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.ValueTuple.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Text.Encodings.Web.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\x86\sqlite3.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\x64\sqlite3.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\IP-Proiect.exe
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Persistence.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Buffers.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Memory.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Weather.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Text.Json.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.ValueTuple.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Persistence.pdb
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Persistence.dll.config
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Persistence.exe.config
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\IP-Proiect.pdb
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\IP-Proiect.exe.config
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Weather.pdb
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Buffers.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Memory.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Text.Json.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.ValueTuple.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\madaB\Desktop\New folder (2)\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\x86\sqlite3.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\x64\sqlite3.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\EntityFramework.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\IP-Proiect.exe
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Persistence.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\SQLitePCLRaw.core.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Buffers.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Memory.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Weather.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Text.Json.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.ValueTuple.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Text.Encodings.Web.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Persistence.pdb
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Persistence.dll.config
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Persistence.exe.config
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\IP-Proiect.pdb
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\IP-Proiect.exe.config
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Weather.pdb
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\EntityFramework.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Buffers.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Data.SQLite.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Memory.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Text.Json.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.ValueTuple.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Text.Encodings.Web.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+C:\Programming\IP_Proiect_Interfata\UnitTest\UnitTest\obj\Debug\UnitTest.pdb

@@ -1,0 +1,272 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="About"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__persistence_packages__system__text__json_7_0_2__r_e_a_d_m_e.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="LICENSE"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__proiect__i_p_packages__newtonsoft__json_13_0_3__l_i_c_e_n_s_e.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="&lt;img src=&quot;https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/Doc/icons/logo.jpg&quot; alt=&quot;Logo&quot;/&gt; Json.NET"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__proiect__i_p_packages__newtonsoft__json_13_0_3__r_e_a_d_m_e.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Serialize JSON"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__proiect__i_p_packages__newtonsoft__json_13_0_3__r_e_a_d_m_e.html#autotoc_md2"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Deserialize JSON"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__proiect__i_p_packages__newtonsoft__json_13_0_3__r_e_a_d_m_e.html#autotoc_md3"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="LINQ to JSON"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__proiect__i_p_packages__newtonsoft__json_13_0_3__r_e_a_d_m_e.html#autotoc_md4"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Links"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__proiect__i_p_packages__newtonsoft__json_13_0_3__r_e_a_d_m_e.html#autotoc_md5"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="About"><param name="Local" value="md__i_p__proiect__i_p__proiect__interfata____copy__proiect__i_p_packages__system__text__json_7_0_2__r_e_a_d_m_e.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Package List"><param name="Local" value="namespaces.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="API"><param name="Local" value="namespace_a_p_i.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Coordinates"><param name="Local" value="class_a_p_i_1_1_coordinates.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DailyData"><param name="Local" value="class_a_p_i_1_1_daily_data.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DailyUnits"><param name="Local" value="class_a_p_i_1_1_daily_units.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GeocodingLoc"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeocodingLoc"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#a34c0b34f5f619b54f858ee029d114501"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLocationCoord"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#ae75a3223f9cc451f8ed0d3d2e24c5db0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetStringGeo"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#a837709235376cdb8a9615b55c3e7f878"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Weather"><param name="Local" value="class_a_p_i_1_1_weather.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Weather"><param name="Local" value="class_a_p_i_1_1_weather.html#a0bbd93cff1346c1b543543df25a391a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetStringByCoord"><param name="Local" value="class_a_p_i_1_1_weather.html#a55fcc4268fb62cc12f581d3a84e57ab3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetWeatherData"><param name="Local" value="class_a_p_i_1_1_weather.html#aebaeb3fca32982e85d5ddd3ff48a0241"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WeatherData"><param name="Local" value="class_a_p_i_1_1_weather_data.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WeatherMain"><param name="Local" value="class_a_p_i_1_1_weather_main.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WeatherMain"><param name="Local" value="class_a_p_i_1_1_weather_main.html#a32ddd076da495cb33ff885c0efe25bb0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WeatherForCity"><param name="Local" value="class_a_p_i_1_1_weather_main.html#ac75897e3b88c303581504caefff64da4"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IP_Proiect"><param name="Local" value="namespace_i_p___proiect.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="namespace_i_p___proiect_1_1_properties.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FacadeMethods"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNotes"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#ae27fdf2d308ed76571c7021c03568e25"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateTable"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a1a25a9c47bf6012c08b85bd19b3fe385"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteAllNotes"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#ab9172e5c10abd674b0ef9f78c5dcfcca"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteNote"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a678ca0c5c99db6e7038dc46dd0612f2e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllNotes"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#acfd9d9debdea01d8e40cdd83df56fc07"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNoteByID"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#afd6f58df5eb6578eb5bbb479c8f24e13"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNotesByDate"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a2b7e46217e06377eb50b706e494e5ef5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetWeather"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a71f8f82d6eff0429cb9688841fe68c41"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateNote"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#abcba58116984f4177e38bbc4474cc01a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_i_p___proiect_1_1_form1.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_i_p___proiect_1_1_form1.html#a92deec0310281c3933c2e9a88e743550"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_i_p___proiect_1_1_form1.html#ad6d0ff23283bd645224232cdb7935d5c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MyUserControlDays"><param name="Local" value="class_i_p___proiect_1_1_my_user_control_days.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UserControlDays"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html#ab3586bc8040bd8b9c845ed523d24117a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UserControlEmpty"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html#a43dbc779e8d9eca8ccc5605d788fa8db"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Persistence"><param name="Local" value="namespace_persistence.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="INotesRepository"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNotes"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#ab8acae3f363032115540cd8e83080f73"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateTable"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a628dc4e045903c45217f2ceb1fc64e59"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteAllNotes"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa7cbccabf3fa73b1976c04905e39d251"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteNote"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a493ae2d2425571756d46b986b52e5429"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllDates"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aebddbf877a23ee86964a535ea8eb8d32"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllNotes"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a89c6d78e0e6c5c994b78c0ba2a17e016"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNoteByID"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a424f6af99d0a497db624119900648921"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNotesByDate"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a50b03712461f247eeb45387cc3eb5f97"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateNote"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa39c730d992300838785876e788f38b3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NotesRepository"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NotesRepository"><param name="Local" value="class_persistence_1_1_notes_repository.html#af867f96bcfccacc64c49543ea779128f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNotes"><param name="Local" value="class_persistence_1_1_notes_repository.html#a679ea0d1d04e806ecfa1baed5f878d88"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateTable"><param name="Local" value="class_persistence_1_1_notes_repository.html#a9f6252dde0e4163e262c904e1c51ba88"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteAllNotes"><param name="Local" value="class_persistence_1_1_notes_repository.html#ae6598bf44bed2e1009adce7e3d5c9479"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteNote"><param name="Local" value="class_persistence_1_1_notes_repository.html#affe8631e4142a4f4baa859fa1433f136"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllDates"><param name="Local" value="class_persistence_1_1_notes_repository.html#a163d36c17167e2061221ffdcf5f505fe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllNotes"><param name="Local" value="class_persistence_1_1_notes_repository.html#aba078310ccc713e66c5e7b571d2a9efc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNoteByID"><param name="Local" value="class_persistence_1_1_notes_repository.html#a22f643010461d3ec3dea9a19af6b2d79"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNotesByDate"><param name="Local" value="class_persistence_1_1_notes_repository.html#a1b1d7bad1e5e785034594d815c9861dc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateNote"><param name="Local" value="class_persistence_1_1_notes_repository.html#a00839bedd5eef7559e18d2b4e443c1f6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_persistence_1_1_record.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_persistence_1_1_record.html#abf0bb5dab050b038567e31819fd450e0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_persistence_1_1_record.html#a34a567288d75f01e4b6c6e11f94c6871"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_persistence_1_1_record.html#a698300ab87916a0eedb8d00886c1e8b8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ToString"><param name="Local" value="class_persistence_1_1_record.html#afe12e3b98b28ac694b7b95672d54d64a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UniqueDBRecordException"><param name="Local" value="class_persistence_1_1_unique_d_b_record_exception.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="API"><param name="Local" value="namespace_a_p_i.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Coordinates"><param name="Local" value="class_a_p_i_1_1_coordinates.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DailyData"><param name="Local" value="class_a_p_i_1_1_daily_data.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DailyUnits"><param name="Local" value="class_a_p_i_1_1_daily_units.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GeocodingLoc"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeocodingLoc"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#a34c0b34f5f619b54f858ee029d114501"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLocationCoord"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#ae75a3223f9cc451f8ed0d3d2e24c5db0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetStringGeo"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html#a837709235376cdb8a9615b55c3e7f878"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Weather"><param name="Local" value="class_a_p_i_1_1_weather.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Weather"><param name="Local" value="class_a_p_i_1_1_weather.html#a0bbd93cff1346c1b543543df25a391a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetStringByCoord"><param name="Local" value="class_a_p_i_1_1_weather.html#a55fcc4268fb62cc12f581d3a84e57ab3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetWeatherData"><param name="Local" value="class_a_p_i_1_1_weather.html#aebaeb3fca32982e85d5ddd3ff48a0241"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WeatherData"><param name="Local" value="class_a_p_i_1_1_weather_data.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WeatherMain"><param name="Local" value="class_a_p_i_1_1_weather_main.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WeatherMain"><param name="Local" value="class_a_p_i_1_1_weather_main.html#a32ddd076da495cb33ff885c0efe25bb0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WeatherForCity"><param name="Local" value="class_a_p_i_1_1_weather_main.html#ac75897e3b88c303581504caefff64da4"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IP_Proiect"><param name="Local" value="namespace_i_p___proiect.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FacadeMethods"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNotes"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#ae27fdf2d308ed76571c7021c03568e25"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateTable"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a1a25a9c47bf6012c08b85bd19b3fe385"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteAllNotes"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#ab9172e5c10abd674b0ef9f78c5dcfcca"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteNote"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a678ca0c5c99db6e7038dc46dd0612f2e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllNotes"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#acfd9d9debdea01d8e40cdd83df56fc07"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNoteByID"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#afd6f58df5eb6578eb5bbb479c8f24e13"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNotesByDate"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a2b7e46217e06377eb50b706e494e5ef5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetWeather"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#a71f8f82d6eff0429cb9688841fe68c41"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateNote"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html#abcba58116984f4177e38bbc4474cc01a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_i_p___proiect_1_1_form1.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Form1"><param name="Local" value="class_i_p___proiect_1_1_form1.html#a92deec0310281c3933c2e9a88e743550"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_i_p___proiect_1_1_form1.html#ad6d0ff23283bd645224232cdb7935d5c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MyUserControlDays"><param name="Local" value="class_i_p___proiect_1_1_my_user_control_days.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UserControlDays"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html#ab3586bc8040bd8b9c845ed523d24117a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UserControlEmpty"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html#a43dbc779e8d9eca8ccc5605d788fa8db"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Persistence"><param name="Local" value="namespace_persistence.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="INotesRepository"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNotes"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#ab8acae3f363032115540cd8e83080f73"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateTable"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a628dc4e045903c45217f2ceb1fc64e59"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteAllNotes"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa7cbccabf3fa73b1976c04905e39d251"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteNote"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a493ae2d2425571756d46b986b52e5429"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllDates"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aebddbf877a23ee86964a535ea8eb8d32"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllNotes"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a89c6d78e0e6c5c994b78c0ba2a17e016"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNoteByID"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a424f6af99d0a497db624119900648921"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNotesByDate"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#a50b03712461f247eeb45387cc3eb5f97"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateNote"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html#aa39c730d992300838785876e788f38b3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NotesRepository"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NotesRepository"><param name="Local" value="class_persistence_1_1_notes_repository.html#af867f96bcfccacc64c49543ea779128f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNotes"><param name="Local" value="class_persistence_1_1_notes_repository.html#a679ea0d1d04e806ecfa1baed5f878d88"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateTable"><param name="Local" value="class_persistence_1_1_notes_repository.html#a9f6252dde0e4163e262c904e1c51ba88"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteAllNotes"><param name="Local" value="class_persistence_1_1_notes_repository.html#ae6598bf44bed2e1009adce7e3d5c9479"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteNote"><param name="Local" value="class_persistence_1_1_notes_repository.html#affe8631e4142a4f4baa859fa1433f136"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllDates"><param name="Local" value="class_persistence_1_1_notes_repository.html#a163d36c17167e2061221ffdcf5f505fe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAllNotes"><param name="Local" value="class_persistence_1_1_notes_repository.html#aba078310ccc713e66c5e7b571d2a9efc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNoteByID"><param name="Local" value="class_persistence_1_1_notes_repository.html#a22f643010461d3ec3dea9a19af6b2d79"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNotesByDate"><param name="Local" value="class_persistence_1_1_notes_repository.html#a1b1d7bad1e5e785034594d815c9861dc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateNote"><param name="Local" value="class_persistence_1_1_notes_repository.html#a00839bedd5eef7559e18d2b4e443c1f6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_persistence_1_1_record.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_persistence_1_1_record.html#abf0bb5dab050b038567e31819fd450e0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_persistence_1_1_record.html#a34a567288d75f01e4b6c6e11f94c6871"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_persistence_1_1_record.html#a698300ab87916a0eedb8d00886c1e8b8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ToString"><param name="Local" value="class_persistence_1_1_record.html#afe12e3b98b28ac694b7b95672d54d64a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UniqueDBRecordException"><param name="Local" value="class_persistence_1_1_unique_d_b_record_exception.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="API.Coordinates"><param name="Local" value="class_a_p_i_1_1_coordinates.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="API.DailyData"><param name="Local" value="class_a_p_i_1_1_daily_data.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="API.DailyUnits"><param name="Local" value="class_a_p_i_1_1_daily_units.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Exception"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Persistence.UniqueDBRecordException"><param name="Local" value="class_persistence_1_1_unique_d_b_record_exception.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IP_Proiect.FacadeMethods"><param name="Local" value="class_i_p___proiect_1_1_facade_methods.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Form"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IP_Proiect.Form1"><param name="Local" value="class_i_p___proiect_1_1_form1.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="API.GeocodingLoc"><param name="Local" value="class_a_p_i_1_1_geocoding_loc.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Persistence.INotesRepository"><param name="Local" value="interface_persistence_1_1_i_notes_repository.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Persistence.NotesRepository"><param name="Local" value="class_persistence_1_1_notes_repository.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Persistence.Record"><param name="Local" value="class_persistence_1_1_record.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UserControl"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IP_Proiect.UserControlDays"><param name="Local" value="class_i_p___proiect_1_1_user_control_days.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="IP_Proiect.MyUserControlDays"><param name="Local" value="class_i_p___proiect_1_1_my_user_control_days.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IP_Proiect.UserControlEmpty"><param name="Local" value="class_i_p___proiect_1_1_user_control_empty.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="API.Weather"><param name="Local" value="class_a_p_i_1_1_weather.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="API.WeatherData"><param name="Local" value="class_a_p_i_1_1_weather_data.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="API.WeatherMain"><param name="Local" value="class_a_p_i_1_1_weather_main.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,54 @@
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Weather\bin\Debug\Weather.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Weather\bin\Debug\Weather.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Weather\bin\Debug\Newtonsoft.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Weather\bin\Debug\Newtonsoft.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Weather\obj\Debug\Weather.csproj.AssemblyReference.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Weather\obj\Debug\Weather.csproj.CopyComplete
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Weather\obj\Debug\Weather.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_final\Weather\obj\Debug\Weather.pdb
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Weather\bin\Debug\Weather.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Weather\bin\Debug\Weather.pdb
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.AssemblyReference.cache
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.CopyComplete
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Weather\obj\Debug\Weather.dll
+C:\Users\Iustina\interfata\IP_Proiect_Interfata\Weather\obj\Debug\Weather.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Weather\bin\Debug\Weather.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Weather\bin\Debug\Weather.pdb
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Weather\bin\Debug\Newtonsoft.Json.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Weather\bin\Debug\Newtonsoft.Json.xml
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Weather\obj\Debug\Weather.csproj.AssemblyReference.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Weather\obj\Debug\Weather.csproj.CopyComplete
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Weather\obj\Debug\Weather.dll
+D:\facultate\Anul III\Sem II\IP\Proiect_1.1\Weather\obj\Debug\Weather.pdb
+C:\Programming\IP_Proiect_Interfata\Weather\bin\Debug\Weather.dll
+C:\Programming\IP_Proiect_Interfata\Weather\bin\Debug\Weather.pdb
+C:\Programming\IP_Proiect_Interfata\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Programming\IP_Proiect_Interfata\Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Programming\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.AssemblyReference.cache
+C:\Programming\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Programming\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.CopyComplete
+C:\Programming\IP_Proiect_Interfata\Weather\obj\Debug\Weather.dll
+C:\Programming\IP_Proiect_Interfata\Weather\obj\Debug\Weather.pdb
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Weather\bin\Debug\Weather.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Weather\bin\Debug\Weather.pdb
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.AssemblyReference.cache
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.CopyComplete
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Weather\obj\Debug\Weather.dll
+C:\Users\Iustina\interfataip\IP_Proiect_Interfata\Weather\obj\Debug\Weather.pdb
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Weather\bin\Debug\Weather.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Weather\bin\Debug\Weather.pdb
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.AssemblyReference.cache
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Weather\obj\Debug\Weather.csproj.CopyComplete
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Weather\obj\Debug\Weather.dll
+C:\Users\madaB\Desktop\IP Proiect\IP_Proiect_Interfata\Weather\obj\Debug\Weather.pdb
