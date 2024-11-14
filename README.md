@@ -1,1 +1,2 @@
 # Proiect-Ingineria-programarii
+Detaliile aferente privind acest proiect sunt prezentate în fișierul "Documentatie.pdf". Acesta a fost realizat în echipă cu alte 3 persoane. Contribuția mea în cadrul său a fost realizarea interfeței grafice, implementarea funcțiilor de callback pentru butoanele menuButton, buttonHome, buttonHelp, buttonAbout, buttonNext, buttonPrev și functia displayCalendar(), implementarea operațiilor de adunare, modificare, ștergere prin funcțiile corespunzătoare, respectiv realizarea documentației.
